@@ -220,6 +220,48 @@ Identifies which features customers value most:
 
 ---
 
+Pricing for Enterprise & Investor Optics
+Enterprise Pricing Signals:
+
+"Contact Sales" is a feature, not a bug — it signals premium positioning
+Custom pricing communicates higher perceived value than public pricing
+Annual-only billing for enterprise = commitment signal to investors
+Multi-year deals with expansion clauses = predictable revenue narrative
+Per-seat pricing works for SMB; value-based pricing works for enterprise
+"Starting at $X/year" language signals enterprise without scaring mid-market
+
+Enterprise Pricing Page Best Practices:
+
+Don't show all enterprise prices publicly (reduces sales team's negotiation leverage)
+Don't compare enterprise tier side-by-side with free/starter tiers (cheapens it)
+Don't lead with per-seat pricing (frame as value-based or platform fee + usage)
+DO list "everything in [lower tier] plus..." to show incremental value
+DO include "custom" or "let's talk" for the enterprise column
+DO highlight security, compliance, and support features in enterprise tier
+DO show that enterprise tier includes dedicated success manager, SLA, etc.
+
+Pricing That Tells an Investor Story:
+
+Net Revenue Retention > 100% = "We grow even without new sales"
+ACV expansion over cohorts = "Customers pay us more every year"
+Pricing tiers with natural upsell = "Built-in expansion revenue"
+Usage-based components = "Revenue grows with customer success"
+Annual plans as default = "Predictable, committed revenue"
+Land-and-expand model = "Small initial deal, large eventual contract"
+
+Pricing FOMO Mechanics:
+
+Grandfathered pricing for early adopters ("Lock in this rate forever")
+Tiered pricing that increases as the product matures
+"Launch pricing" with specific end date
+Volume discounts that reward early commitment
+"Most popular" badge on the recommended tier
+Annual discount framed as savings ("Save $X/year on annual")
+
+See also: enterprise-marketing for enterprise landing page pricing sections, investor-narrative for how to present unit economic
+
+---
+
 ## Related Skills
 
 - **churn-prevention**: For cancel flows, save offers, and reducing revenue churn

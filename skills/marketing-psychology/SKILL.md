@@ -446,6 +446,100 @@ When facing a marketing challenge, consider:
 
 ---
 
+Enterprise Buyer Psychology
+Enterprise buying is committee-based with fundamentally different psychology than individual consumer or SMB purchases. Understanding these dynamics is critical for B2B marketing.
+The Committee Dynamic:
+Champion (Manager/Director):
+
+Primary motivation: Looking smart internally. Being the person who found the solution.
+What they need from you: Ammunition to sell upward. They need to look like a visionary, not a risk-taker.
+Content that works: ROI calculators, case studies from peers, "how to build the business case" guides.
+FOMO trigger: "Your peers at similar companies are already implementing this."
+
+Decision-Maker (VP/C-Level):
+
+Primary motivation: Strategic outcomes and career safety.
+What they need from you: Business impact framing, not feature lists. Board-level language.
+Content that works: Executive briefs, industry trend reports, analyst mentions.
+FOMO trigger: "Companies not adopting [approach] are falling behind by [metric]."
+
+Technical Evaluator (Architect/Lead):
+
+Primary motivation: Not getting stuck with bad technology. Technical credibility.
+What they need from you: Architecture docs, API quality signals, integration depth, honest limitations.
+Content that works: Technical docs, sandbox environments, engineering blog posts.
+FOMO trigger: "Built on [respected technology]. Integrates natively with your stack."
+
+Blocker (Security/Legal/Procurement):
+
+Primary motivation: Risk avoidance. Not being the person who approved a breach or bad vendor.
+What they need from you: Pre-answered security questionnaires, compliance certs, DPA, SLAs.
+Content that works: Trust center, SOC 2 report, penetration test summaries, legal templates.
+FOMO trigger: "SOC 2 Type II certified. Pre-completed security questionnaire available."
+
+Budget-Holder (Finance/VP):
+
+Primary motivation: ROI justification. Not overpaying. Predictable costs.
+What they need from you: ROI calculator, payback period, total cost of ownership analysis.
+Content that works: ROI reports, TCO comparisons, customer savings case studies.
+FOMO trigger: "Average payback period of X months. Customers save $X annually."
+
+Enterprise-Specific FOMO Triggers:
+Competitive Fear (Most Powerful):
+
+"Your competitor [name] is already using this"
+"X of the top 10 companies in your industry have adopted this"
+Works because: Enterprise executives are terrified of falling behind peers
+
+Obsolescence Anxiety:
+
+"The old way of doing [X] is becoming unsustainable"
+"Companies still using [legacy approach] are losing [metric] to those who've switched"
+Works because: Nobody wants to be the last to modernize
+
+Peer Validation:
+
+"Leading companies in [their industry] trust this approach"
+Industry-specific logo walls, vertical case studies, analyst endorsements
+Works because: Enterprise buyers follow what other respected companies do
+
+Innovation Signaling:
+
+Buyers want to be seen as forward-thinking within their organization
+Position adoption of your product as a signal of progressive leadership
+Works because: Championing new solutions is a career accelerator
+
+Risk of Inaction (Loss Aversion Applied to Business):
+
+"The cost of doing nothing is $X/year in [waste/lost productivity/risk exposure]"
+Frame the status quo as the risky choice, not your product
+Works because: Loss aversion is stronger than gain motivation, even in committees
+
+The "Nobody Gets Fired For..." Effect:
+Enterprise buyers optimize for career safety above all other factors. Your job in enterprise marketing is to make choosing your product the SAFE choice, not the innovative one.
+Proof points that reduce perceived career risk:
+
+Large, recognizable customer logos (implicit endorsement = career insurance)
+Analyst recognition: Gartner, Forrester = "I chose a validated solution"
+Long uptime track record + public status page
+Enterprise-grade support with named account manager + SLAs
+SOC 2 / ISO 27001 / HIPAA compliance certifications
+Published case studies from their industry peers
+Clear vendor stability signals (funding, team growth, revenue trajectory)
+
+Committee Consensus Psychology:
+Enterprise deals require consensus, not individual persuasion:
+
+Minimum viable coalition: You need at least 3 of the 5 personas aligned to close
+Veto power is asymmetric: One strong "no" kills more deals than one strong "yes" wins
+Content must travel: Your assets will be forwarded, screenshot'd, and presented without you
+The internal champion is your proxy salesperson: Arm them with everything they need
+Social proof must match each persona: The CTO cares about different logos than the CFO
+
+See also: enterprise-marketing for creating assets for each persona, abm-outbound for multi-threading outreach across the committee.
+
+---
+
 ## Related Skills
 
 - **page-cro**: Apply psychology to page optimization

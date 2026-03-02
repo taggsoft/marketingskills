@@ -343,6 +343,50 @@ Even small changelog updates remind customers your product is evolving. This bui
 
 ---
 
+Enhancement: Add to launch-strategy/SKILL.md
+Add the following section to the existing launch-strategy SKILL.md file.
+Insert after the existing launch sequencing content.
+
+FOMO Escalation Sequence for Launches
+Layer urgency mechanics into each phase of the launch:
+Pre-Launch — Build Anticipation (T-30d to T-0):
+
+Teaser content: problem-awareness without revealing the solution
+"Something big is coming" social posts with signup for early access
+Influencer/partner embargoed previews (they can't share yet = curiosity)
+Waitlist with position counter + referral-to-skip mechanic
+Drip sequence: 1 reveal per week building to launch day
+"Founding member" pricing for waitlist signups (locks at signup)
+
+Launch Window — Create Urgency (T-0 to T+14d):
+
+Staggered access: invite-only first 48hrs → waitlist next → public after 2 weeks
+Daily social proof updates: "X people joined yesterday" / "X teams signed up"
+Time-limited launch pricing with real deadline ("Price increases [date]")
+Live events/webinars during launch week (creates shared experience)
+Real-time signup counter on landing page during launch window
+"Launch special" with specific end date (must actually end)
+
+Post-Launch — Sustain Momentum (T+14d to T+60d):
+
+"What people are saying" roundup posts (curated social proof)
+Customer spotlight series (1 per week for first month)
+Feature expansion teasers ("And this is just the beginning...")
+Milestone celebrations with community ("We just hit [X] — thank you")
+"What you missed" email for waitlist members who didn't convert
+Case study from first power users (within 30-60 days)
+
+Launch FOMO Anti-Patterns:
+
+Fake countdown timers that reset
+"Limited spots" when there's no actual limit
+Launch pricing that "ends" but never actually does
+Manufactured urgency for features that don't justify it
+
+See also: fomo-engineering for deeper FOMO mechanics, social-proof-engine for collecting launch proof assets.
+
+---
+
 ## Related Skills
 
 - **marketing-ideas**: For additional launch tactics (#22 Product Hunt, #23 Early Access Referrals)
